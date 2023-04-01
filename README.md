@@ -6,6 +6,7 @@
 [![License](https://poser.pugx.org/gloudemans/shoppingcart/license)](https://packagist.org/packages/gloudemans/shoppingcart)
 
 A simple shoppingcart implementation for Laravel.
+Support for laravel 10
 
 ## Installation
 
